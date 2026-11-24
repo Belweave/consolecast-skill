@@ -20,6 +20,6 @@ The skill lives in [`skills/consolecast/SKILL.md`](skills/consolecast/SKILL.md).
 
 ## License
 
-Apache-2.0, copyright Belweave. See [LICENSE](LICENSE).
+Apache-2.0, copyright Belweave. See [LICENSE](LICENSE). The licence covers the files in this repository only. Console Cast itself, the app this skill drives, is proprietary, closed-source software from Belweave, used under the terms at <https://consolecast.app/legal/terms>.
 
 PlayStation® and PS5® are registered trademarks of Sony Interactive Entertainment Inc. Xbox® is a registered trademark of Microsoft Corporation. OBS Studio™ is a trademark of the OBS Project. Console Cast is not affiliated with, endorsed by or sponsored by any of them.
